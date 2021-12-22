@@ -1,0 +1,5 @@
+setup.py
+mydb.egg-info/PKG-INFO
+mydb.egg-info/SOURCES.txt
+mydb.egg-info/dependency_links.txt
+mydb.egg-info/top_level.txt
